@@ -2,6 +2,7 @@
 This contains my notes for research papers that I've read.
 
 ## List of Papers
+* [Self-Supervised Policy Adaptation during Deployment](https://mountain-radio-d16.notion.site/Self-Supervised-Policy-Adaptation-during-Deployment-abe13612843644eb8fccc6743b502888)
 * [Curiosity-driven Exploration by Self-supervised Prediction](https://mountain-radio-d16.notion.site/Curiosity-driven-Exploration-by-Self-supervised-Prediction-4135add10bf94e3587c2e90293700daf)
 * [Learning to Learn How to Learn: Self-Adaptive Visual Navigation using Meta-Learning](https://mountain-radio-d16.notion.site/Learning-to-Learn-How-to-Learn-Self-Adaptive-Visual-Navigation-using-Meta-Learning-4c3b4ae663b44302970739dcdec3a3c9)
 * [Visual Semantic Navigation using Scene Priors](https://mountain-radio-d16.notion.site/Visual-Semantic-Navigation-using-Scene-Priors-41f8196f52fa4b349f5276c711a95e3b)
