@@ -2,6 +2,7 @@
 This contains my notes for research papers that I've read.
 
 ## List of Papers
+* [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://mountain-radio-d16.notion.site/Image-Augmentation-Is-All-You-Need-Regularizing-Deep-Reinforcement-Learning-from-Pixels-e75d8c47395945d5ba0154a533ea55c6)
 * [Reinforcement Learning with Augmented Data](https://mountain-radio-d16.notion.site/Reinforcement-Learning-with-Augmented-Data-6887d8958aba4944ad74a8ce0c3ac206)
 * [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://mountain-radio-d16.notion.site/CURL-Contrastive-Unsupervised-Representatiions-for-Reinforcement-Learning-4086e5a6d2344627b55d3a888923750d)
 * [Self-Supervised Policy Adaptation during Deployment](https://mountain-radio-d16.notion.site/Self-Supervised-Policy-Adaptation-during-Deployment-c53cdd17858f48f79516c7e402a5cb7d)
