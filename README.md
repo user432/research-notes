@@ -2,6 +2,7 @@
 This contains my notes for research papers that I've read.
 
 ## List of Papers
+* [Momentum Contrast for Unsupervised Visual Representation Learning](https://mountain-radio-d16.notion.site/Momentum-Contrast-for-Unsupervised-Visual-Representation-Learning-3ca5890e43834566a945dc74e69df7fe)
 * [Automatic Data Augmentations for Generalization in Reinforcement Learning](https://mountain-radio-d16.notion.site/Automatic-Data-Augmentation-for-Generalization-in-Reinforcement-Learning-e8502c82cd7342bb826325df1426f8e4)
 * [Reinforcement Learning with Prototypical Representations](https://mountain-radio-d16.notion.site/Reinforcement-Learning-with-Prototypical-Representations-4e6ad741e0c647318acd3d77ac71a2dd)
 * [Decoupling Representation Learning from Reinforcement Learning](https://mountain-radio-d16.notion.site/Decoupling-Representation-Learning-from-Reinforcement-Learning-2969aae1f3af4a119048e9cf4b730e80)
