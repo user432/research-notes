@@ -3,7 +3,7 @@ This contains my notes for research papers that I've read.
 
 ## List of Papers
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://mountain-radio-d16.notion.site/Momentum-Contrast-for-Unsupervised-Visual-Representation-Learning-3ca5890e43834566a945dc74e69df7fe)
-* [ROLL: Visual Self-Supervised Reinforcement Learning with Object Reasoning](https://www.notion.so/ROLL-Visual-Self-Supervised-Reinforcement-Learning-with-Object-Reasoning-534f7ca3940643cca64fcafd66fe1486)
+* [ROLL: Visual Self-Supervised Reinforcement Learning with Object Reasoning](https://mountain-radio-d16.notion.site/ROLL-Visual-Self-Supervised-Reinforcement-Learning-with-Object-Reasoning-534f7ca3940643cca64fcafd66fe1486)
 * [Reinforcement Learning with Prototypical Representations](https://mountain-radio-d16.notion.site/Reinforcement-Learning-with-Prototypical-Representations-4e6ad741e0c647318acd3d77ac71a2dd)
 * [Decoupling Representation Learning from Reinforcement Learning](https://mountain-radio-d16.notion.site/Decoupling-Representation-Learning-from-Reinforcement-Learning-2969aae1f3af4a119048e9cf4b730e80)
 * [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://mountain-radio-d16.notion.site/Mastering-Visual-Continuous-Control-Improved-Data-Augmented-Reinforcement-Learning-4b7c3570b4224b8e981e7718c0091fe6)
