@@ -2,6 +2,7 @@
 This contains my notes for research papers that I've read.
 
 ## List of Papers
+* [R3M: Reusable Representations for Robotic Manipulation](https://mountain-radio-d16.notion.site/R3M-Reusable-Representations-for-Robotic-Manipulation-79f48ea3b1c6450884343201370576ad)
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://mountain-radio-d16.notion.site/Momentum-Contrast-for-Unsupervised-Visual-Representation-Learning-3ca5890e43834566a945dc74e69df7fe)
 * [ROLL: Visual Self-Supervised Reinforcement Learning with Object Reasoning](https://mountain-radio-d16.notion.site/ROLL-Visual-Self-Supervised-Reinforcement-Learning-with-Object-Reasoning-534f7ca3940643cca64fcafd66fe1486)
 * [Reinforcement Learning with Prototypical Representations](https://mountain-radio-d16.notion.site/Reinforcement-Learning-with-Prototypical-Representations-4e6ad741e0c647318acd3d77ac71a2dd)
